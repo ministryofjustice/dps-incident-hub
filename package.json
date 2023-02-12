@@ -155,7 +155,7 @@
     "lint-staged": "^12.4.0",
     "mocha-junit-reporter": "^2.0.2",
     "nock": "^13.2.4",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "prettier": "^2.6.2",
     "sass": "^1.50.1",
     "supertest": "^6.2.2",
